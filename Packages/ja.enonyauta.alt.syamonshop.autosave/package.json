@@ -1,0 +1,12 @@
+{
+  "name": "ja.enonyauta.alt.syamonshop.autosave",
+  "displayName": "AutoSave",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Auto save unity extension.",
+  "author": {
+    "name": "シャモン",
+    "url": "https://x.com/Syamon1224"
+  },
+  "vpmDependencies": {}
+}
